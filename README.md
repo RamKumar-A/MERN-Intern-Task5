@@ -56,9 +56,9 @@ The login form is completely generated using JavaScript, meaning no static HTML 
 
 ## Screenshots
 
-!(form)[./images/form.png]
-!(empty_fields)[./images/empty_fields.png]
-!(email_error)[./images/email_error.png]
-!(password_error)[./images/password_error.png]
-!(onsuccess)[./images/onsuccess.png]
-!(mobile-screen)[./images/mobile-screen.png]
+![form](./images/form.png)
+![empty_fields](./images/empty_fields.png)
+![email_error](./images/email_error.png)
+![password_error](./images/password_error.png)
+![onsuccess](./images/onsuccess.png)
+![mobile-screen](./images/mobile-screen.png)
